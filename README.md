@@ -12,7 +12,7 @@ Select a partner and assign the roles of Repository Owner (RO) and Editing Teamm
     **Forking** creates a personal copy of a repository under your GitHub account. This allows you to experiment and make changes without affecting the original project.
 
     **RO Tasks**:
-    - Open a web browser and navigate to https://github.com/EmmettMyers/Git-Lab.
+    - Open a web browser and navigate to the 284h-git-lab
     - Click Fork in the upper-right corner to create a copy of the repository under your GitHub account.
     - Once the fork is created, click the Code button.
     - Under the Clone section, click Open with GitHub Desktop.
@@ -180,4 +180,5 @@ RO:
 - Push the changes to the main branch.
 ________________________________________
 Submission
+
 Submit the link to your forked GitHub repository on Canvas. Each partner should submit individually.
